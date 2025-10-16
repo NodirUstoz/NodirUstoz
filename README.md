@@ -5,7 +5,7 @@
 
 ## 🧑‍💻 About Me
 
-💻 **Profession:** Software Engineer | System Administrator | Pentester 
+💻 **Profession:** Software Engineer | System Administrator | Pentester  
 🎯 **Goal:** Teaching youth, sharing knowledge, and contributing to their future  
 🎓 **Fields I Teach:** Python, Web Development, Cybersecurity  
 📚 **Experience:** Many years in IT with thousands of students trained  
